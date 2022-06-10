@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RealmDemoDb</string>
+    <string name="my_favorite_team">Favorite Cricket Team</string>
+    <string name="add_vote">Click to Add Vote</string>
+</resources>
